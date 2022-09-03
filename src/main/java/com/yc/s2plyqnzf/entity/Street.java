@@ -19,7 +19,7 @@ public class Street implements Serializable {
     private static final long serialVersionUID = 1L;
 
       /**
-       * x
+       * xx
      * 编号: 自增列
      */
         @TableId(value = "id", type = IdType.AUTO)
